@@ -1,0 +1,27 @@
+#leftbody{
+    width: 68%;
+    float: left;
+}
+#rightbody{
+    width: 32%;
+    float: left;
+}
+#cover{
+    z-index: 2;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-color:rgba(0,0,0,0.5);
+    
+}
+#box{
+    color: yellow;
+    background-color: yellowgreen;
+    top: 150px;
+    left: 150px;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+}

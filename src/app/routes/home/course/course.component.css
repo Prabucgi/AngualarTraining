@@ -1,0 +1,25 @@
+.courses{
+    float: left;
+    width: 200px;
+    height: 350px;
+    background-color: lightgoldenrodyellow;
+    box-shadow: 5px 5px 5px yellowgreen;
+    margin: 20px;
+}
+.cpic{
+    width: 90%;
+    height: 20%;
+}
+.cpic img{
+    width: 100%;
+    height: 100%;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+del{
+    color:red;
+    text-align: center;
+}

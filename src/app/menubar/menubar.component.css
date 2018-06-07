@@ -1,0 +1,13 @@
+.bg-green{
+    background-color:rgb(53, 48, 78);
+    }
+    .navbar-brand{
+        background-color: red;
+        padding: 0px 10px;
+        font-weight: bold;
+    }
+    .navbar{
+        padding: 0px;
+        margin: 0px;
+        line-height: initial;
+    }
